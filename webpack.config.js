@@ -44,7 +44,7 @@ module.exports = {
     }
   },
   devtool: "source-map",
-  externals: {
-      "vue": "Vue"
-  },
+  // externals: {
+  //     "vue": "Vue"
+  // },
 }
